@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aphieq
+- 👀 I’m interested in software quality assurance
+- 🌱 I’m currently learning about software quality assurance
+- 💞️ I’m looking to collaborate on companies operating in technology
+- 📫 How to reach me 081312777807
